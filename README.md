@@ -6,7 +6,7 @@ Issues and artifacts related to managed services for the cloud.gov platform.
 ## Mission
 "It's dangerous to go alone... Take this!"
 
-![Men in Black departing an armory filled with alien weapons](http://img0.gtsstatic.com/wallpapers/16a55f36b4f0e950552d6facd8f509ad_large.jpeg)
+![Men in Black departing an armory filled with alien weapons](mib2-arsenal.jpg)
 
 Instantly outfit government teams with the key services and capabilities they need to achieve their mission.
 
